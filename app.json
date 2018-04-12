@@ -1,0 +1,11 @@
+{
+    "name": "crypto_db_webhook",
+    "description": "A very simple webhook that gets you the details of a specified crypto.",
+    "repository": "https://github.com/Gataca1322/WebhookForCryptoDB.gitook",
+    "keywords": [
+        "movies",
+        "api.ai",
+        "chatbot",
+        "webhook"
+    ]
+}
